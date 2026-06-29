@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
