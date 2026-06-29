@@ -28,5 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Hash Table
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+## Binary Search
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
