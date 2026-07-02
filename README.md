@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
 ## Game Theory
 |  |
