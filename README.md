@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
