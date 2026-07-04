@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
