@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0502-ipo) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1301-number-of-paths-with-max-score](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0312-burst-balloons) |
+| [1301-number-of-paths-with-max-score](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
