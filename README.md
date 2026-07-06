@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0228-summary-ranges](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
