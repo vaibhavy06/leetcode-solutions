@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0068-text-justification](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0068-text-justification) |
+| [0174-dungeon-game](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0228-summary-ranges](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [1301-number-of-paths-with-max-score](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
