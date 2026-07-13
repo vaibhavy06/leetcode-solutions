@@ -229,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
