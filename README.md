@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0427-construct-quad-tree](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1260-shift-2d-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0015-3sum) |
 | [0502-ipo](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1288-remove-covered-intervals](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
