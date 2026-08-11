@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0427-construct-quad-tree](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Segment Tree
 |  |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Minimax
 |  |
 | ------- |
