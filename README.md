@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0217-contains-duplicate](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
