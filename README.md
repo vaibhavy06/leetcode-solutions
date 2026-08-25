@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0519-random-flip-matrix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0519-random-flip-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -337,12 +338,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
