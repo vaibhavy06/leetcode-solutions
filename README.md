@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0502-ipo) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
