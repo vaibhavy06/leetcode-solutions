@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0486-predict-the-winner](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0502-ipo) |
+| [0542-01-matrix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0542-01-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [0542-01-matrix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
