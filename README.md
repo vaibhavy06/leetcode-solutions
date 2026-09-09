@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0427-construct-quad-tree](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0486-predict-the-winner](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0502-ipo) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
