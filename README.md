@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0519-random-flip-matrix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0519-random-flip-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0843-guess-the-word](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -597,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
