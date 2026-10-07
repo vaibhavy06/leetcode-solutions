@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1096-brace-expansion-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/vaibhavy06/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
