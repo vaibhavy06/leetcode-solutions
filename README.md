@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vaibhavy06/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
